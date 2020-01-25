@@ -17,6 +17,8 @@ Berikut ScreenShoot untuk soal no 6.a:
 Untuk soal no 6.b terdapat pada folder "b". Berikut ScreenShoot untuk soal no 6.b:
 ![image](https://user-images.githubusercontent.com/60288277/73121619-81a2a200-3fae-11ea-981e-6096aca37c8c.png)
 
+Untuk soal no 6.c terdapat pada folder "c". /*dump sql terdapat pada poda folder 6 a, setting connection ada pada folder connection/config.php
+Berikut ScreenShoot untuk soal no 6.c:
 
 ![image](https://user-images.githubusercontent.com/60288277/73121648-eb22b080-3fae-11ea-8220-fc28f1d514ea.png)
 
